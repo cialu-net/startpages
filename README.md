@@ -1,2 +1,8 @@
-# Startpages
-Some candy startpages for web browsers. Linux addicted, but useful for all the OSs 
+# StartPages
+
+Some candy startpages for web browsers.
+
+[CIALU.NET](https:cialu.net)
+
+[/r/startpages](https://www.reddit.com/r/startpages/)
+
